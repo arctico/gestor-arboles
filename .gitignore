@@ -3,6 +3,13 @@
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
+# generic files to ignore
+*~
+*.lock
+*.DS_Store
+*.swp
+*.out
+
 # Package Files #
 *.jar
 *.war
